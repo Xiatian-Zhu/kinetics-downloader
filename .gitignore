@@ -1,3 +1,6 @@
 /dataset
 /.idea
 __pycache__
+
+resources/kinetics600.tar.gz
+resources/kinetics600

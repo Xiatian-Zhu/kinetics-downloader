@@ -1,0 +1,49 @@
+{
+    "dancing": [
+        "belly_dancing", 
+        "breakdancing", 
+        "country_line_dancing", 
+        "dancing_ballet", 
+        "dancing_charleston", 
+        "dancing_gangnam_style", 
+        "dancing_macarena", 
+        "salsa_dancing", 
+        "robot_dancing", 
+        "swing_dancing", 
+        "tap_dancing", 
+        "tango_dancing", 
+        "square_dancing", 
+        "mosh_pit_dancing", 
+        "jumpstyle_dancing"
+    ],
+    "jumping": [
+        "base_jumping", 
+        "high_jump", 
+        "long_jump", 
+        "jumping_into_pool", 
+        "jumping_jacks", 
+        "triple_jumps"
+    ],
+    "running": [
+        "running_on_treadmill", 
+        "jogging"
+    ],
+    "petting": [
+        "petting_cat", 
+        "petting_animal-not_cat-"
+    ], 
+    "handshaking": [
+        "shaking_hands"
+    ], 
+    "clapping": [
+        "clapping"
+    ], 
+    "waving": [
+        "waving_hand"
+    ], 
+    "walking": [
+        "walking_the_dog", 
+        "walking_through_snow", 
+        "moon_walking"
+    ]
+}

@@ -51,6 +51,7 @@ def download_classes(classes, num_workers, failed_save_file, compress, verbose, 
   :return:                      None.
   """
 
+  print(classes)
   for list_path, save_root in zip([config.TRAIN_METADATA_PATH, config.VAL_METADATA_PATH],
                                         [config.TRAIN_ROOT, config.VALID_ROOT]):
     with open(list_path) as file:
@@ -117,7 +118,7 @@ if __name__ == "__main__":
   parser = argparse.ArgumentParser("Download Kinetics videos in the mp4 format.")
 
   parser.add_argument("--categories", nargs="+", help="categories to download")
-  parser.add_argument("--classes", nargs="+", help="classes to download")
+  parser.add_argument("--classes", nargs="+", help="classes to download", default="zumba")
   parser.add_argument("--all", action="store_true", help="download the whole dataset")
   parser.add_argument("--test", action="store_true", help="download the test set")
 
