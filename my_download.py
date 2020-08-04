@@ -5,14 +5,14 @@ import lib.downloader as dl
 
 failed_videos = []
 
-video_save_dir = 'dataset/srib/'
+video_save_dir = 'dataset/srib_manual/'
 if not os.path.isdir(video_save_dir):
     try:
         os.mkdir(video_save_dir)
     except FileExistsError:
         pass
 
-meta_file_path = 'resources/srib_val.json'
+meta_file_path = 'resources/srib_val_manual.json'
 with open(meta_file_path) as file:
     videos_dict = json.load(file)
 
@@ -31,7 +31,7 @@ with open(meta_file_path) as file:
         act_classes = categories[cat]
         print(act_classes)
 
-        video_num_per_class = int(max(4, 10 / len(act_classes)))
+        # video_num_per_class = int(max(4, 10 / len(act_classes)))
         
         for class_name in act_classes:
             print(class_name)
@@ -55,14 +55,19 @@ with open(meta_file_path) as file:
                     clip_end = annotations["segment"][1]
 
                     # Extends at two ends
-                    ext_start = annotations["extends"][0]
-                    ext_end = annotations["extends"][1]
+                    # ext_start = annotations["extends"][0]
+                    # ext_end = annotations["extends"][1]
 
-                    start = clip_start - ext_start
-                    end = clip_end + ext_end
+                    # start = clip_start - ext_start
+                    # end = clip_end + ext_end
 
                     # To download this tal video clip
-                    if not dl.process_video(key, class_dir, start, end):
+                    video_full_path = os.path.join(class_dir, key+'.mp4')
+                    if os.path.exists(video_full_path):
+                        continue
+                    else:
+                        print(f'To download video: {key}')
+                    if not dl.process_video(key, class_dir, clip_start, clip_end):
                         failed_videos.append(key)
     
 

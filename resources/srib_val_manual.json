@@ -35,12 +35,12 @@
         "annotations": {
             "label": "belly dancing",
             "segment": [
-                16.0,
-                26.0
+                0.0,
+                45.0
             ],
             "action": [
-                12.0,
-                20.0
+                16.0,
+                45.0
             ]
         },
         "duration": 10.0,
@@ -180,11 +180,11 @@
             "label": "dancing ballet",
             "segment": [
                 20.0,
-                70.0
+                50.0
             ],
             "action": [
                 20.0,
-                70.0
+                50.0
             ]
         },
         "duration": 10.0,

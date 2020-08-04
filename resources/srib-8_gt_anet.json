@@ -1,0 +1,1354 @@
+{
+    "-0L4z8D2eGs": {
+        "duration_second": 50.02,
+        "duration_frame": 1500,
+        "annotations": {
+            "segment": [
+                0.0,
+                50.0
+            ],
+            "label": "belly dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-0L4z8D2eGs"
+    },
+    "-2JgjPsy4Eo": {
+        "duration_second": 40.02,
+        "duration_frame": 1000,
+        "annotations": {
+            "segment": [
+                1.0,
+                40.0
+            ],
+            "label": "belly dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-2JgjPsy4Eo"
+    },
+    "-7tDxxH2g6I": {
+        "duration_second": 45.02,
+        "duration_frame": 1125,
+        "annotations": {
+            "segment": [
+                16.0,
+                45.0
+            ],
+            "label": "belly dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-7tDxxH2g6I"
+    },
+    "1OcA0gQFWjM": {
+        "duration_second": 50.02,
+        "duration_frame": 1250,
+        "annotations": {
+            "segment": [
+                16.0,
+                50.0
+            ],
+            "label": "breakdancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=1OcA0gQFWjM"
+    },
+    "1YbLsCfZh6o": {
+        "duration_second": 35.02,
+        "duration_frame": 1051,
+        "annotations": {
+            "segment": [
+                4.0,
+                35.0
+            ],
+            "label": "breakdancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=1YbLsCfZh6o"
+    },
+    "2E4T5NCywcE": {
+        "duration_second": 38.02,
+        "duration_frame": 950,
+        "annotations": {
+            "segment": [
+                2.0,
+                38.0
+            ],
+            "label": "breakdancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=2E4T5NCywcE"
+    },
+    "3ob3NvTp-YA": {
+        "duration_second": 45.02,
+        "duration_frame": 1350,
+        "annotations": {
+            "segment": [
+                15.0,
+                45.0
+            ],
+            "label": "breakdancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=3ob3NvTp-YA"
+    },
+    "1TzGn3qcsTk": {
+        "duration_second": 50.02,
+        "duration_frame": 1250,
+        "annotations": {
+            "segment": [
+                7.0,
+                50.0
+            ],
+            "label": "country line dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=1TzGn3qcsTk"
+    },
+    "1rsLh2kG96A": {
+        "duration_second": 40.02,
+        "duration_frame": 1199,
+        "annotations": {
+            "segment": [
+                4.0,
+                40.0
+            ],
+            "label": "country line dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=1rsLh2kG96A"
+    },
+    "2DNG46ZD9Ss": {
+        "duration_second": 50.02,
+        "duration_frame": 1258,
+        "annotations": {
+            "segment": [
+                13.0,
+                50.0
+            ],
+            "label": "country line dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=2DNG46ZD9Ss"
+    },
+    "-WmjG9gBUTI": {
+        "duration_second": 50.02,
+        "duration_frame": 1199,
+        "annotations": {
+            "segment": [
+                18.0,
+                50.0
+            ],
+            "label": "dancing ballet"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-WmjG9gBUTI"
+    },
+    "1svbHIV88gk": {
+        "duration_second": 30.03,
+        "duration_frame": 900,
+        "annotations": {
+            "segment": [
+                0.0,
+                30.0
+            ],
+            "label": "dancing ballet"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=1svbHIV88gk"
+    },
+    "3rzLqKZCLNw": {
+        "duration_second": 40.02,
+        "duration_frame": 1000,
+        "annotations": {
+            "segment": [
+                0.0,
+                40.0
+            ],
+            "label": "dancing ballet"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=3rzLqKZCLNw"
+    },
+    "4EDjC9aPs08": {
+        "duration_second": 50.02,
+        "duration_frame": 1499,
+        "annotations": {
+            "segment": [
+                15.0,
+                50.0
+            ],
+            "label": "dancing ballet"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=4EDjC9aPs08"
+    },
+    "-1KtlEOx78I": {
+        "duration_second": 20.02,
+        "duration_frame": 600,
+        "annotations": {
+            "segment": [
+                9.0,
+                20.0
+            ],
+            "label": "dancing charleston"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-1KtlEOx78I"
+    },
+    "2bnoDsLyO8s": {
+        "duration_second": 40.02,
+        "duration_frame": 1200,
+        "annotations": {
+            "segment": [
+                3.0,
+                40.0
+            ],
+            "label": "dancing charleston"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=2bnoDsLyO8s"
+    },
+    "30NCKTBajOg": {
+        "duration_second": 30.03,
+        "duration_frame": 900,
+        "annotations": {
+            "segment": [
+                7.0,
+                30.0
+            ],
+            "label": "dancing charleston"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=30NCKTBajOg"
+    },
+    "3CvbciH2o1g": {
+        "duration_second": 45.02,
+        "duration_frame": 1349,
+        "annotations": {
+            "segment": [
+                25.0,
+                45.0
+            ],
+            "label": "dancing charleston"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=3CvbciH2o1g"
+    },
+    "-O0mBf-MsxE": {
+        "duration_second": 35.02,
+        "duration_frame": 1050,
+        "annotations": {
+            "segment": [
+                0.0,
+                35.0
+            ],
+            "label": "dancing gangnam style"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-O0mBf-MsxE"
+    },
+    "-PMG_RNHaQE": {
+        "duration_second": 40.02,
+        "duration_frame": 1200,
+        "annotations": {
+            "segment": [
+                13.0,
+                40.0
+            ],
+            "label": "dancing gangnam style"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-PMG_RNHaQE"
+    },
+    "0CApQWg8ViU": {
+        "duration_second": 9.02,
+        "duration_frame": 268,
+        "annotations": {
+            "segment": [
+                0.0,
+                8.0
+            ],
+            "label": "dancing gangnam style"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=0CApQWg8ViU"
+    },
+    "-6hsbWBHZrE": {
+        "duration_second": 30.03,
+        "duration_frame": 900,
+        "annotations": {
+            "segment": [
+                2.0,
+                30.0
+            ],
+            "label": "dancing macarena"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-6hsbWBHZrE"
+    },
+    "-bOgXBuuge0": {
+        "duration_second": 50.02,
+        "duration_frame": 1499,
+        "annotations": {
+            "segment": [
+                22.0,
+                50.0
+            ],
+            "label": "dancing macarena"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-bOgXBuuge0"
+    },
+    "-i7rrd7W7UM": {
+        "duration_second": 30.02,
+        "duration_frame": 900,
+        "annotations": {
+            "segment": [
+                0.0,
+                20.0
+            ],
+            "label": "dancing macarena"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-i7rrd7W7UM"
+    },
+    "-3FihEVl-R8": {
+        "duration_second": 30.03,
+        "duration_frame": 900,
+        "annotations": {
+            "segment": [
+                0.0,
+                30.0
+            ],
+            "label": "salsa dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-3FihEVl-R8"
+    },
+    "2JlC8lGuwms": {
+        "duration_second": 20.02,
+        "duration_frame": 600,
+        "annotations": {
+            "segment": [
+                0.0,
+                10.0
+            ],
+            "label": "salsa dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=2JlC8lGuwms"
+    },
+    "501u53tCEIc": {
+        "duration_second": 20.02,
+        "duration_frame": 600,
+        "annotations": {
+            "segment": [
+                5.0,
+                20.0
+            ],
+            "label": "salsa dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=501u53tCEIc"
+    },
+    "4L5OLoGYp98": {
+        "duration_second": 51.02,
+        "duration_frame": 1275,
+        "annotations": {
+            "segment": [
+                5.0,
+                51.0
+            ],
+            "label": "robot dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=4L5OLoGYp98"
+    },
+    "4ik1sNDoQcM": {
+        "duration_second": 35.02,
+        "duration_frame": 1015,
+        "annotations": {
+            "segment": [
+                0.0,
+                35.0
+            ],
+            "label": "robot dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=4ik1sNDoQcM"
+    },
+    "58euAyYrqug": {
+        "duration_second": 25.02,
+        "duration_frame": 315,
+        "annotations": {
+            "segment": [
+                0.0,
+                25.0
+            ],
+            "label": "robot dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=58euAyYrqug"
+    },
+    "-Y-fUYGcb7o": {
+        "duration_second": 40.02,
+        "duration_frame": 800,
+        "annotations": {
+            "segment": [
+                7.0,
+                40.0
+            ],
+            "label": "swing dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-Y-fUYGcb7o"
+    },
+    "2xnscQ5wab0": {
+        "duration_second": 50.02,
+        "duration_frame": 1499,
+        "annotations": {
+            "segment": [
+                0.0,
+                10.0
+            ],
+            "label": "swing dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=2xnscQ5wab0"
+    },
+    "3SFFYaz5czo": {
+        "duration_second": 35.04,
+        "duration_frame": 840,
+        "annotations": {
+            "segment": [
+                5.0,
+                35.0
+            ],
+            "label": "swing dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=3SFFYaz5czo"
+    },
+    "70dVgzj6P0c": {
+        "duration_second": 30.03,
+        "duration_frame": 900,
+        "annotations": {
+            "segment": [
+                3.0,
+                30.0
+            ],
+            "label": "swing dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=70dVgzj6P0c"
+    },
+    "-OPuI0ngwqI": {
+        "duration_second": 40.02,
+        "duration_frame": 1200,
+        "annotations": {
+            "segment": [
+                5.0,
+                40.0
+            ],
+            "label": "tap dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-OPuI0ngwqI"
+    },
+    "-_pn5NxJmok": {
+        "duration_second": 18.02,
+        "duration_frame": 540,
+        "annotations": {
+            "segment": [
+                4.0,
+                18.0
+            ],
+            "label": "tap dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-_pn5NxJmok"
+    },
+    "0-3yl2_Myso": {
+        "duration_second": 34.02,
+        "duration_frame": 850,
+        "annotations": {
+            "segment": [
+                0.0,
+                34.0
+            ],
+            "label": "tap dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=0-3yl2_Myso"
+    },
+    "-KSenkRK0EE": {
+        "duration_second": 25.03,
+        "duration_frame": 600,
+        "annotations": {
+            "segment": [
+                20.0,
+                25.0
+            ],
+            "label": "tango dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-KSenkRK0EE"
+    },
+    "2E0GhsSFXKY": {
+        "duration_second": 50.02,
+        "duration_frame": 750,
+        "annotations": {
+            "segment": [
+                30.0,
+                50.0
+            ],
+            "label": "tango dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=2E0GhsSFXKY"
+    },
+    "2PDYXS25ht0": {
+        "duration_second": 30.02,
+        "duration_frame": 750,
+        "annotations": {
+            "segment": [
+                3.0,
+                30.0
+            ],
+            "label": "square dancing"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=2PDYXS25ht0"
+    },
+    "0XI00rbag0E": {
+        "duration_second": 14.02,
+        "duration_frame": 406,
+        "annotations": {
+            "segment": [
+                1.0,
+                14.0
+            ],
+            "label": "base jumping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=0XI00rbag0E"
+    },
+    "1BvEXt0km8I": {
+        "duration_second": 43.02,
+        "duration_frame": 1288,
+        "annotations": {
+            "segment": [
+                10.0,
+                43.0
+            ],
+            "label": "base jumping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=1BvEXt0km8I"
+    },
+    "2CApmRb1jVg": {
+        "duration_second": 40.02,
+        "duration_frame": 1000,
+        "annotations": {
+            "segment": [
+                27.0,
+                40.0
+            ],
+            "label": "base jumping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=2CApmRb1jVg"
+    },
+    "2i0TA3drTe8": {
+        "duration_second": 45.02,
+        "duration_frame": 1349,
+        "annotations": {
+            "segment": [
+                38.0,
+                45.0
+            ],
+            "label": "base jumping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=2i0TA3drTe8"
+    },
+    "7ANYH9Nshc4": {
+        "duration_second": 50.02,
+        "duration_frame": 1250,
+        "annotations": {
+            "segment": [
+                35.0,
+                38.0
+            ],
+            "label": "base jumping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=7ANYH9Nshc4"
+    },
+    "vVofxEW1tdE": {
+        "duration_second": 30.02,
+        "duration_frame": 1799,
+        "annotations": {
+            "segment": [
+                13.0,
+                30.0
+            ],
+            "label": "base jumping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=vVofxEW1tdE"
+    },
+    "0-otvolYOFE": {
+        "duration_second": 50.02,
+        "duration_frame": 1250,
+        "annotations": {
+            "segment": [
+                19.0,
+                25.0
+            ],
+            "label": "base jumping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=0-otvolYOFE"
+    },
+    "01fAWEHzudA": {
+        "duration_second": 13.02,
+        "duration_frame": 390,
+        "annotations": {
+            "segment": [
+                0.0,
+                8.0
+            ],
+            "label": "high jump"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=01fAWEHzudA"
+    },
+    "0oL36GHlSXw": {
+        "duration_second": 6.02,
+        "duration_frame": 150,
+        "annotations": {
+            "segment": [
+                0.0,
+                3.0
+            ],
+            "label": "high jump"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=0oL36GHlSXw"
+    },
+    "4DP5vsyAg1c": {
+        "duration_second": 13.02,
+        "duration_frame": 390,
+        "annotations": {
+            "segment": [
+                8.0,
+                13.0
+            ],
+            "label": "high jump"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=4DP5vsyAg1c"
+    },
+    "0CViJao5YLY": {
+        "duration_second": 16.02,
+        "duration_frame": 400,
+        "annotations": {
+            "segment": [
+                3.0,
+                16.0
+            ],
+            "label": "long jump"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=0CViJao5YLY"
+    },
+    "2ZtsLtiB2xA": {
+        "duration_second": 25.02,
+        "duration_frame": 639,
+        "annotations": {
+            "segment": [
+                7.0,
+                17.0
+            ],
+            "label": "long jump"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=2ZtsLtiB2xA"
+    },
+    "5iA2AC1SZO4": {
+        "duration_second": 24.02,
+        "duration_frame": 600,
+        "annotations": {
+            "segment": [
+                0.0,
+                10.0
+            ],
+            "label": "long jump"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=5iA2AC1SZO4"
+    },
+    "-2csq_1UhMQ": {
+        "duration_second": 12.02,
+        "duration_frame": 360,
+        "annotations": {
+            "segment": [
+                3.0,
+                6.0
+            ],
+            "label": "jumping into pool"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-2csq_1UhMQ"
+    },
+    "39Gq_VfELh8": {
+        "duration_second": 14.02,
+        "duration_frame": 420,
+        "annotations": {
+            "segment": [
+                2.0,
+                8.0
+            ],
+            "label": "jumping into pool"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=39Gq_VfELh8"
+    },
+    "3GJ1XCcksl0": {
+        "duration_second": 54.02,
+        "duration_frame": 1620,
+        "annotations": {
+            "segment": [
+                0.0,
+                4.0
+            ],
+            "label": "jumping into pool"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=3GJ1XCcksl0"
+    },
+    "3Q4BgTflA2Q": {
+        "duration_second": 13.02,
+        "duration_frame": 390,
+        "annotations": {
+            "segment": [
+                4.0,
+                6.0
+            ],
+            "label": "jumping into pool"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=3Q4BgTflA2Q"
+    },
+    "37k7DrOPzbw": {
+        "duration_second": 11.02,
+        "duration_frame": 330,
+        "annotations": {
+            "segment": [
+                0.0,
+                10.0
+            ],
+            "label": "jumping jacks"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=37k7DrOPzbw"
+    },
+    "-D6dlwKg2Xs": {
+        "duration_second": 48.02,
+        "duration_frame": 715,
+        "annotations": {
+            "segment": [
+                0.0,
+                41.0
+            ],
+            "label": "running on treadmill"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-D6dlwKg2Xs"
+    },
+    "-KvDvP44fxc": {
+        "duration_second": 60.02,
+        "duration_frame": 1800,
+        "annotations": {
+            "segment": [
+                0.0,
+                60.0
+            ],
+            "label": "running on treadmill"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-KvDvP44fxc"
+    },
+    "1ELh09xeRw4": {
+        "duration_second": 19.02,
+        "duration_frame": 475,
+        "annotations": {
+            "segment": [
+                2.0,
+                14.0
+            ],
+            "label": "running on treadmill"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=1ELh09xeRw4"
+    },
+    "1f2tC_TVEms": {
+        "duration_second": 34.02,
+        "duration_frame": 1020,
+        "annotations": {
+            "segment": [
+                7.0,
+                34.0
+            ],
+            "label": "running on treadmill"
+        },
+        "feature_frame": 0,
+        "url": "https:/ /www.youtube.com/watch?v=1f2tC_TVEms"
+    },
+    "1jlCIie7myQ": {
+        "duration_second": 60.02,
+        "duration_frame": 1800,
+        "annotations": {
+            "segment": [
+                6.0,
+                60.0
+            ],
+            "label": "running on treadmill"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=1jlCIie7myQ"
+    },
+    "-R9ahRkfDLo": {
+        "duration_second": 28.02,
+        "duration_frame": 840,
+        "annotations": {
+            "segment": [
+                0.0,
+                28.0
+            ],
+            "label": "jogging"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-R9ahRkfDLo"
+    },
+    "0uSu_3yu_44": {
+        "duration_second": 58.02,
+        "duration_frame": 3477,
+        "annotations": {
+            "segment": [
+                15.0,
+                57.0
+            ],
+            "label": "jogging"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=0uSu_3yu_44"
+    },
+    "1GBkGtC2bKI": {
+        "duration_second": 23.02,
+        "duration_frame": 552,
+        "annotations": {
+            "segment": [
+                1.0,
+                22.0
+            ],
+            "label": "petting cat"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=1GBkGtC2bKI"
+    },
+    "1mk8zxRrWkU": {
+        "duration_second": 43.0,
+        "duration_frame": 1290,
+        "annotations": {
+            "segment": [
+                0.0,
+                24.0
+            ],
+            "label": "petting cat"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=1mk8zxRrWkU"
+    },
+    "2eigAnTVfTU": {
+        "duration_second": 72.02,
+        "duration_frame": 2160,
+        "annotations": {
+            "segment": [
+                5.0,
+                66.0
+            ],
+            "label": "petting cat"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=2eigAnTVfTU"
+    },
+    "AyZ2hw6W6_Q": {
+        "duration_second": 42.02,
+        "duration_frame": 1005,
+        "annotations": {
+            "segment": [
+                0.0,
+                41.0
+            ],
+            "label": "petting cat"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=AyZ2hw6W6_Q"
+    },
+    "52ApksnCeBw": {
+        "duration_second": 18.02,
+        "duration_frame": 540,
+        "annotations": {
+            "segment": [
+                8.0,
+                13.0
+            ],
+            "label": "shaking hands"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=52ApksnCeBw"
+    },
+    "5PJWmyJDih0": {
+        "duration_second": 49.02,
+        "duration_frame": 735,
+        "annotations": {
+            "segment": [
+                22.0,
+                34.0
+            ],
+            "label": "shaking hands"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=5PJWmyJDih0"
+    },
+    "5m7f2fUxEsc": {
+        "duration_second": 17.02,
+        "duration_frame": 405,
+        "annotations": {
+            "segment": [
+                7.0,
+                12.0
+            ],
+            "label": "shaking hands"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=5m7f2fUxEsc"
+    },
+    "7ZzYiCQzLMY": {
+        "duration_second": 25.94,
+        "duration_frame": 644,
+        "annotations": {
+            "segment": [
+                13.0,
+                25.0
+            ],
+            "label": "shaking hands"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=7ZzYiCQzLMY"
+    },
+    "8mBCQV0A_ak": {
+        "duration_second": 13.02,
+        "duration_frame": 312,
+        "annotations": {
+            "segment": [
+                1.0,
+                12.0
+            ],
+            "label": "shaking hands"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=8mBCQV0A_ak"
+    },
+    "8nTPcUijPiA": {
+        "duration_second": 9.02,
+        "duration_frame": 225,
+        "annotations": {
+            "segment": [
+                4.0,
+                8.0
+            ],
+            "label": "shaking hands"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=8nTPcUijPiA"
+    },
+    "Ascc4Z14FTs": {
+        "duration_second": 23.02,
+        "duration_frame": 690,
+        "annotations": {
+            "segment": [
+                0.0,
+                23.0
+            ],
+            "label": "shaking hands"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=Ascc4Z14FTs"
+    },
+    "CPh2bwhQFQQ": {
+        "duration_second": 34.02,
+        "duration_frame": 1020,
+        "annotations": {
+            "segment": [
+                0.0,
+                34.0
+            ],
+            "label": "shaking hands"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=CPh2bwhQFQQ"
+    },
+    "1dfVFWG0ezo": {
+        "duration_second": 17.02,
+        "duration_frame": 510,
+        "annotations": {
+            "segment": [
+                2.0,
+                7.0
+            ],
+            "label": "clapping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=1dfVFWG0ezo"
+    },
+    "35_IiB3_nVw": {
+        "duration_second": 16.02,
+        "duration_frame": 432,
+        "annotations": {
+            "segment": [
+                0.0,
+                14.0
+            ],
+            "label": "clapping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=35_IiB3_nVw"
+    },
+    "3jZK5w1kNMA": {
+        "duration_second": 41.02,
+        "duration_frame": 1230,
+        "annotations": {
+            "segment": [
+                0.0,
+                38.0
+            ],
+            "label": "clapping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=3jZK5w1kNMA"
+    },
+    "4A_ohVkJGJM": {
+        "duration_second": 17.02,
+        "duration_frame": 510,
+        "annotations": {
+            "segment": [
+                0.0,
+                8.0
+            ],
+            "label": "clapping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=4A_ohVkJGJM"
+    },
+    "4yIDecqF1Gk": {
+        "duration_second": 11.02,
+        "duration_frame": 330,
+        "annotations": {
+            "segment": [
+                0.0,
+                3.0
+            ],
+            "label": "clapping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=4yIDecqF1Gk"
+    },
+    "5-PAVx4fHiA": {
+        "duration_second": 10.02,
+        "duration_frame": 140,
+        "annotations": {
+            "segment": [
+                1.0,
+                9.0
+            ],
+            "label": "clapping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=5-PAVx4fHiA"
+    },
+    "5-cgk3_zvmw": {
+        "duration_second": 36.02,
+        "duration_frame": 1080,
+        "annotations": {
+            "segment": [
+                29.0,
+                34.0
+            ],
+            "label": "clapping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=5-cgk3_zvmw"
+    },
+    "5KdKOxhQ7-A": {
+        "duration_second": 14.02,
+        "duration_frame": 420,
+        "annotations": {
+            "segment": [
+                3.0,
+                9.0
+            ],
+            "label": "clapping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=5KdKOxhQ7-A"
+    },
+    "6YwjxRxDwtg": {
+        "duration_second": 38.02,
+        "duration_frame": 570,
+        "annotations": {
+            "segment": [
+                0.0,
+                32.0
+            ],
+            "label": "clapping"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=6YwjxRxDwtg"
+    },
+    "-NmTACVcKZ8": {
+        "duration_second": 21.02,
+        "duration_frame": 630,
+        "annotations": {
+            "segment": [
+                2.0,
+                8.0
+            ],
+            "label": "waving hand"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-NmTACVcKZ8"
+    },
+    "0RfClG7Ebf4": {
+        "duration_second": 17.02,
+        "duration_frame": 306,
+        "annotations": {
+            "segment": [
+                0.0,
+                10.0
+            ],
+            "label": "waving hand"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=0RfClG7Ebf4"
+    },
+    "0bEDlcNPadU": {
+        "duration_second": 6.02,
+        "duration_frame": 180,
+        "annotations": {
+            "segment": [
+                0.0,
+                3.0
+            ],
+            "label": "waving hand"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=0bEDlcNPadU"
+    },
+    "4zLCFY3BL4k": {
+        "duration_second": 11.02,
+        "duration_frame": 330,
+        "annotations": {
+            "segment": [
+                3.0,
+                5.0
+            ],
+            "label": "waving hand"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=4zLCFY3BL4k"
+    },
+    "50Dk3xpJHKI": {
+        "duration_second": 11.02,
+        "duration_frame": 330,
+        "annotations": {
+            "segment": [
+                0.0,
+                9.0
+            ],
+            "label": "waving hand"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=50Dk3xpJHKI"
+    },
+    "5pWyzOmZ-sU": {
+        "duration_second": 10.02,
+        "duration_frame": 300,
+        "annotations": {
+            "segment": [
+                1.0,
+                6.0
+            ],
+            "label": "waving hand"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=5pWyzOmZ-sU"
+    },
+    "7pRBKePE2LU": {
+        "duration_second": 11.02,
+        "duration_frame": 328,
+        "annotations": {
+            "segment": [
+                0.0,
+                10.0
+            ],
+            "label": "waving hand"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=7pRBKePE2LU"
+    },
+    "8KPJBdtBNXA": {
+        "duration_second": 11.02,
+        "duration_frame": 330,
+        "annotations": {
+            "segment": [
+                1.0,
+                8.0
+            ],
+            "label": "waving hand"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=8KPJBdtBNXA"
+    },
+    "9eZIvvRK9Bw": {
+        "duration_second": 7.02,
+        "duration_frame": 210,
+        "annotations": {
+            "segment": [
+                0.0,
+                5.0
+            ],
+            "label": "waving hand"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=9eZIvvRK9Bw"
+    },
+    "-U1xXJB1AHE": {
+        "duration_second": 10.02,
+        "duration_frame": 300,
+        "annotations": {
+            "segment": [
+                -22.0,
+                -19.0
+            ],
+            "label": "walking the dog"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-U1xXJB1AHE"
+    },
+    "-dMaV5Il324": {
+        "duration_second": 16.02,
+        "duration_frame": 240,
+        "annotations": {
+            "segment": [
+                5.0,
+                14.0
+            ],
+            "label": "walking the dog"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-dMaV5Il324"
+    },
+    "2GbVUe-Sxn0": {
+        "duration_second": 8.02,
+        "duration_frame": 240,
+        "annotations": {
+            "segment": [
+                0.0,
+                7.0
+            ],
+            "label": "walking the dog"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=2GbVUe-Sxn0"
+    },
+    "-CKxhozrTpo": {
+        "duration_second": 25.02,
+        "duration_frame": 750,
+        "annotations": {
+            "segment": [
+                0.0,
+                23.0
+            ],
+            "label": "walking through snow"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-CKxhozrTpo"
+    },
+    "-igwdtV9JU8": {
+        "duration_second": 8.02,
+        "duration_frame": 120,
+        "annotations": {
+            "segment": [
+                1.0,
+                8.0
+            ],
+            "label": "walking through snow"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=-igwdtV9JU8"
+    },
+    "0UMTccBHAyg": {
+        "duration_second": 33.02,
+        "duration_frame": 990,
+        "annotations": {
+            "segment": [
+                2.0,
+                33.0
+            ],
+            "label": "moon walking"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=0UMTccBHAyg"
+    },
+    "0uwcQ6rUbwk": {
+        "duration_second": 49.02,
+        "duration_frame": 1127,
+        "annotations": {
+            "segment": [
+                12.0,
+                18.0
+            ],
+            "label": "moon walking"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=0uwcQ6rUbwk"
+    },
+    "2d3O0cljhQM": {
+        "duration_second": 2.02,
+        "duration_frame": 60,
+        "annotations": {
+            "segment": [
+                0.0,
+                2.0
+            ],
+            "label": "moon walking"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=2d3O0cljhQM"
+    },
+    "2u0qZSawI2A": {
+        "duration_second": 27.02,
+        "duration_frame": 810,
+        "annotations": {
+            "segment": [
+                7.0,
+                27.0
+            ],
+            "label": "moon walking"
+        },
+        "feature_frame": 0,
+        "url": "https://www.youtube.com/watch?v=2u0qZSawI2A"
+    }
+}
