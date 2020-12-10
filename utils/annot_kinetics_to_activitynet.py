@@ -28,8 +28,8 @@ from moviepy.video.io.VideoFileClip import VideoFileClip
 
 def main():
     kinectis_annot_file = 'resources/srib_val_manual.json'
-    video_dir = 'dataset/srib_manual_v1/'
-    output_annot_file = 'resources/srib-8_gt_anet.json'
+    video_dir = 'dataset/srib_manual_flatten/'
+    output_annot_file = 'resources/srib-8_gt_anet_v2.json'
 
     output_dict = {}
     with open(kinectis_annot_file) as file:
@@ -48,15 +48,19 @@ def main():
             clip = VideoFileClip(vf)
             duration_second = clip.duration
 
-            if vid == '-7tDxxH2g6I':
-                print(vid)
+            # if vid == '-7tDxxH2g6I':
+            #     print(vid)
 
             annot = v["annotations"]
-            new_annot = {}
-            new_annot["segment"] = [annot['action'][0] - annot['segment'][0], annot['action'][1] - annot['segment'][0]]
-            new_annot["label"] = annot['label']
+            new_annot = []
+            annot_item = {}
+            annot_item["segment"] = [annot['action'][0] - annot['segment'][0], annot['action'][1] - annot['segment'][0]]
+            annot_item["label"] = annot['label']
+            new_annot.append(annot_item)
 
             nv = {}
+            nv['duration'] = duration_second
+            nv['subset'] = 'validation'
             nv['duration_second'] = duration_second
             nv['duration_frame'] = frame_count
             nv['annotations'] = new_annot
